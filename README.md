@@ -38,7 +38,7 @@ When a repository is **archived**, it becomes:
 
 ## 🧪 Status
 
-> Currently: **[NOT YET ARCHIVED]**  
+> Currently: **[ARCHIVED]**  
 (Update this line once you've archived it!)
 
 ---
